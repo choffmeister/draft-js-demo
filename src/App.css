@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.Editor {
+  border: 1px solid white;
+  padding: 20px;
+  line-height: 2;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
